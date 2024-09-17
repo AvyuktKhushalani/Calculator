@@ -7,7 +7,7 @@ root.resizable(False,False)
 root.configure(background = "black")
 
 equation = ""
-
+#Hello World
 
 def Show(value):
     global equation
